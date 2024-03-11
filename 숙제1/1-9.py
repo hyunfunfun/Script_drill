@@ -4,3 +4,4 @@ area = width * height
 perimeter = (width + height) * 2
 print(area)
 print(perimeter)
+
