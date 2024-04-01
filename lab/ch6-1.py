@@ -1,0 +1,3 @@
+from simpleset import *
+
+print
